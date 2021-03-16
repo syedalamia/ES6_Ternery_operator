@@ -1,0 +1,4 @@
+ternery hocche return kore
+true or false value like if or else
+
+then ekta variable e store kore
